@@ -34,4 +34,4 @@ git submodule add https://sourcecode.social/reiver/nameh-css nameh-css
 
 ## Author
 
-Package **nameh-css** was written by [Charles Iliya Krempeaux](http://changelog.ca)
+Package **nameh-css** was written by [Charles Iliya Krempeaux](http://reiver.link)
