@@ -44,6 +44,7 @@ main {
 	overflow-x: auto;
 	scroll-snap-type: x mandatory;
 	overscroll-behavior-x: contain;
+	-webkit-overflow-scrolling: touch;
 }
 
 main {
