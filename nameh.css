@@ -45,3 +45,11 @@ main {
 	line-height: 1.5;
 }
 
+main {
+	overflow-x: auto;
+	scroll-snap-type: x mandatory;
+}
+
+main > * {
+	scroll-snap-align: start;
+}
